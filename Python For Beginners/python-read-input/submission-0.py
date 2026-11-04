@@ -1,0 +1,7 @@
+def read_and_print_input(string) -> None:
+    user_input = input("Reading one line of text into a string: ")
+    print(user_input)
+    
+
+read_and_print_input("some text")
+read_and_print_input("some text")
